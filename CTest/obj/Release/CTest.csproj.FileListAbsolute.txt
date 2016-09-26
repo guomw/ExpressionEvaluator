@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\ExpressionEvaluator\CTest\bin\Release\CTest.exe
+C:\Users\Administrator\Desktop\ExpressionEvaluator\CTest\bin\Release\CTest.pdb
+C:\Users\Administrator\Desktop\ExpressionEvaluator\CTest\bin\Release\ExpressionEvaluator.dll
+C:\Users\Administrator\Desktop\ExpressionEvaluator\CTest\bin\Release\ExpressionEvaluator.pdb
+C:\Users\Administrator\Desktop\ExpressionEvaluator\CTest\obj\Release\CTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ExpressionEvaluator\CTest\obj\Release\CTest.exe
+C:\Users\Administrator\Desktop\ExpressionEvaluator\CTest\obj\Release\CTest.pdb
+E:\Repositories\trunk\net\demo\ExpressionEvaluator\CTest\obj\Release\CTest.exe
+E:\Repositories\trunk\net\demo\ExpressionEvaluator\CTest\obj\Release\CTest.pdb
+E:\Repositories\trunk\net\demo\ExpressionEvaluator\CTest\obj\Release\CTest.csprojResolveAssemblyReference.cache
+E:\Repositories\trunk\net\demo\ExpressionEvaluator\CTest\bin\Release\CTest.exe
+E:\Repositories\trunk\net\demo\ExpressionEvaluator\CTest\bin\Release\CTest.pdb
+E:\Repositories\trunk\net\demo\ExpressionEvaluator\CTest\bin\Release\ExpressionEvaluator.dll
+E:\Repositories\trunk\net\demo\ExpressionEvaluator\CTest\bin\Release\ExpressionEvaluator.pdb

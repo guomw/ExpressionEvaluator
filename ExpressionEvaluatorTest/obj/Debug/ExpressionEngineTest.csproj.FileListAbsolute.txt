@@ -1,0 +1,21 @@
+D:\Codigo Fonte\funcionalidades\ExpressionEvaluator\ExpressionEvaluatorTest\bin\Debug\ExpressionEvaluatorTest.dll
+D:\Codigo Fonte\funcionalidades\ExpressionEvaluator\ExpressionEvaluatorTest\bin\Debug\ExpressionEvaluatorTest.pdb
+D:\Codigo Fonte\funcionalidades\ExpressionEvaluator\ExpressionEvaluatorTest\bin\Debug\ExpressionEvaluator.dll
+D:\Codigo Fonte\funcionalidades\ExpressionEvaluator\ExpressionEvaluatorTest\bin\Debug\ExpressionEvaluator.pdb
+D:\Codigo Fonte\funcionalidades\ExpressionEvaluator\ExpressionEvaluatorTest\obj\Debug\ExpressionEvaluatorTest.csprojResolveAssemblyReference.cache
+D:\Codigo Fonte\funcionalidades\ExpressionEvaluator\ExpressionEvaluatorTest\obj\Debug\ExpressionEvaluatorTest.dll
+D:\Codigo Fonte\funcionalidades\ExpressionEvaluator\ExpressionEvaluatorTest\obj\Debug\ExpressionEvaluatorTest.pdb
+C:\Users\Marcelo\Desktop\enviar\ExpressionEvaluator\ExpressionEvaluatorTest\bin\Debug\ExpressionEvaluatorTest.dll
+C:\Users\Marcelo\Desktop\enviar\ExpressionEvaluator\ExpressionEvaluatorTest\bin\Debug\ExpressionEvaluatorTest.pdb
+C:\Users\Marcelo\Desktop\enviar\ExpressionEvaluator\ExpressionEvaluatorTest\bin\Debug\ExpressionEvaluator.dll
+C:\Users\Marcelo\Desktop\enviar\ExpressionEvaluator\ExpressionEvaluatorTest\bin\Debug\ExpressionEvaluator.pdb
+C:\Users\Marcelo\Desktop\enviar\ExpressionEvaluator\ExpressionEvaluatorTest\obj\Debug\ExpressionEvaluatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\enviar\ExpressionEvaluator\ExpressionEvaluatorTest\obj\Debug\ExpressionEvaluatorTest.dll
+C:\Users\Marcelo\Desktop\enviar\ExpressionEvaluator\ExpressionEvaluatorTest\obj\Debug\ExpressionEvaluatorTest.pdb
+C:\Users\marcelo.ribeiro\Desktop\ExpressionEvaluator\ExpressionEvaluatorTest\bin\Debug\ExpressionEvaluatorTest.dll
+C:\Users\marcelo.ribeiro\Desktop\ExpressionEvaluator\ExpressionEvaluatorTest\bin\Debug\ExpressionEvaluatorTest.pdb
+C:\Users\marcelo.ribeiro\Desktop\ExpressionEvaluator\ExpressionEvaluatorTest\bin\Debug\ExpressionEvaluator.dll
+C:\Users\marcelo.ribeiro\Desktop\ExpressionEvaluator\ExpressionEvaluatorTest\bin\Debug\ExpressionEvaluator.pdb
+C:\Users\marcelo.ribeiro\Desktop\ExpressionEvaluator\ExpressionEvaluatorTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\marcelo.ribeiro\Desktop\ExpressionEvaluator\ExpressionEvaluatorTest\obj\Debug\ExpressionEvaluatorTest.dll
+C:\Users\marcelo.ribeiro\Desktop\ExpressionEvaluator\ExpressionEvaluatorTest\obj\Debug\ExpressionEvaluatorTest.pdb

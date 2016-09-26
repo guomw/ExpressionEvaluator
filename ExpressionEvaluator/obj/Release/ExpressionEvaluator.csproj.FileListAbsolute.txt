@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ExpressionEvaluator\ExpressionEvaluator\bin\Release\ExpressionEvaluator.dll
+C:\Users\Administrator\Desktop\ExpressionEvaluator\ExpressionEvaluator\bin\Release\ExpressionEvaluator.pdb
+C:\Users\Administrator\Desktop\ExpressionEvaluator\ExpressionEvaluator\obj\Release\ExpressionEvaluator.dll
+C:\Users\Administrator\Desktop\ExpressionEvaluator\ExpressionEvaluator\obj\Release\ExpressionEvaluator.pdb
+E:\Repositories\trunk\net\demo\ExpressionEvaluator\ExpressionEvaluator\bin\Release\ExpressionEvaluator.dll
+E:\Repositories\trunk\net\demo\ExpressionEvaluator\ExpressionEvaluator\bin\Release\ExpressionEvaluator.pdb
+E:\Repositories\trunk\net\demo\ExpressionEvaluator\ExpressionEvaluator\obj\Release\ExpressionEvaluator.dll
+E:\Repositories\trunk\net\demo\ExpressionEvaluator\ExpressionEvaluator\obj\Release\ExpressionEvaluator.pdb
+E:\Repositories\trunk\net\demo\ExpressionEvaluator\ExpressionEvaluator\obj\Release\ExpressionEvaluator.csprojResolveAssemblyReference.cache

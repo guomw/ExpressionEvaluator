@@ -1,0 +1,9 @@
+C:\Users\Marcelo\Desktop\enviar\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\ExpressionEvaluator.dll
+C:\Users\Marcelo\Desktop\enviar\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\ExpressionEvaluator.pdb
+C:\Users\Marcelo\Desktop\enviar\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\ExpressionEvaluator.dll
+C:\Users\Marcelo\Desktop\enviar\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\ExpressionEvaluator.pdb
+C:\Users\marcelo.ribeiro\Desktop\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\ExpressionEvaluator.dll
+C:\Users\marcelo.ribeiro\Desktop\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\ExpressionEvaluator.pdb
+C:\Users\marcelo.ribeiro\Desktop\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\marcelo.ribeiro\Desktop\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\ExpressionEvaluator.dll
+C:\Users\marcelo.ribeiro\Desktop\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\ExpressionEvaluator.pdb

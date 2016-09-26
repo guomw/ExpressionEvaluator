@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7ACA0364-8F28-42B3-A3F4-23CD298E6C32}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ExpressionEvaluator</RootNamespace>
+    <AssemblyName>ExpressionEvaluator</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Interno|AnyCPU'">
+    <OutputPath>bin\Interno\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\CIT.Fleury.CockPit.Business.Framework.ExpressionEvaluator.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Externo|AnyCPU'">
+    <OutputPath>bin\Externo\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\CIT.Fleury.CockPit.Business.Framework.ExpressionEvaluator.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Fleury|AnyCPU'">
+    <OutputPath>bin\Fleury\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\CIT.Fleury.CockPit.Business.Framework.ExpressionEvaluator.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ExpressionInterpreter.cs" />
+    <Compile Include="ExpressionNotation\CompOperation\CompOperator.cs" />
+    <Compile Include="ExpressionNotation\CompOperation\CompOperatorEquals.cs" />
+    <Compile Include="ExpressionNotation\CompOperation\CompOperatorGreaterThan.cs" />
+    <Compile Include="ExpressionNotation\CompOperation\CompOperatorGreaterEqualsThan.cs" />
+    <Compile Include="ExpressionNotation\CompOperation\CompOperatorLessEqualsThan.cs" />
+    <Compile Include="ExpressionNotation\CompOperation\CompOperatorLessThan.cs" />
+    <Compile Include="ExpressionNotation\CompOperation\CompOperatorNotEquals.cs" />
+    <Compile Include="ExpressionNotation\CompOperation\CompOperatorContains.cs" />
+    <Compile Include="ExpressionNotation\CompOperation\ICompOperator.cs" />
+    <Compile Include="ExpressionNotation\Data\BaseDataValue.cs" />
+    <Compile Include="ExpressionNotation\Data\DataArrayDateTime.cs" />
+    <Compile Include="ExpressionNotation\Data\DataArrayDecimal.cs" />
+    <Compile Include="ExpressionNotation\Data\DataArrayString.cs" />
+    <Compile Include="ExpressionNotation\Data\DataDateTime.cs" />
+    <Compile Include="ExpressionNotation\Data\DataString.cs" />
+    <Compile Include="ExpressionNotation\Data\DataNumber.cs" />
+    <Compile Include="ExpressionNotation\Data\DataBoolean.cs" />
+    <Compile Include="ExpressionNotation\Data\DataArray.cs" />
+    <Compile Include="ExpressionNotation\ExpressionNotationDoubleOperator.cs" />
+    <Compile Include="ExpressionNotation\ExpressionNotationSingleOperator.cs" />
+    <Compile Include="ExpressionNotation\FunctionOperation\FunctionOperatorAverage.cs" />
+    <Compile Include="ExpressionNotation\FunctionOperation\FunctionOperatorSum.cs" />
+    <Compile Include="ExpressionNotation\FunctionOperation\FunctionOperatorCos.cs" />
+    <Compile Include="ExpressionNotation\FunctionOperation\FunctionOperatorSin.cs" />
+    <Compile Include="ExpressionNotation\FunctionOperation\FunctionOperator.cs" />
+    <Compile Include="ExpressionNotation\FunctionOperation\IFunctionOperator.cs" />
+    <Compile Include="ExpressionNotation\IExpressionNotationToken.cs" />
+    <Compile Include="ExpressionNotation\LogicalOperation\ILogicalOperator.cs" />
+    <Compile Include="ExpressionNotation\LogicalOperation\LogicalOperatorNot.cs" />
+    <Compile Include="ExpressionNotation\LogicalOperation\LogicalOperatorOr.cs" />
+    <Compile Include="ExpressionNotation\LogicalOperation\LogicalOperatorAnd.cs" />
+    <Compile Include="ExpressionNotation\LogicalOperation\LogicalOperator.cs" />
+    <Compile Include="ExpressionNotation\MathOperation\IMathOperator.cs" />
+    <Compile Include="ExpressionNotation\MathOperation\MathOperatorUnaryMinus.cs" />
+    <Compile Include="ExpressionNotation\MathOperation\MathOperatorDivision.cs" />
+    <Compile Include="ExpressionNotation\MathOperation\MathOperatorMultiply.cs" />
+    <Compile Include="ExpressionNotation\MathOperation\MathOperatorMinus.cs" />
+    <Compile Include="ExpressionNotation\MathOperation\MathOperator.cs" />
+    <Compile Include="ExpressionNotation\ExpressionNotationToken.cs" />
+    <Compile Include="ExpressionNotation\MathOperation\MathOperatorPlus.cs" />
+    <Compile Include="ExpressionNotation\Typographic\LeftParenthesis.cs" />
+    <Compile Include="ExpressionNotation\Typographic\Parenthesis.cs" />
+    <Compile Include="ExpressionNotation\Typographic\RightParenthesis.cs" />
+    <Compile Include="ExpressionNotation\Data\DataValue.cs" />
+    <Compile Include="ExpressionNotation\Data\DataVariable.cs" />
+    <Compile Include="ExpressionTokenParser.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
